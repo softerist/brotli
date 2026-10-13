@@ -349,6 +349,5 @@ setup(
     package_dir=PACKAGE_DIR,
     py_modules=PY_MODULES,
     ext_modules=EXT_MODULES,
-    test_suite=TEST_SUITE,
     cmdclass=CMD_CLASS,
 )
